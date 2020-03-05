@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="sk-SK" original="Slovak Legislation">
+    <body>
+      <group id="body">
+        <trans-unit id="TableExtension 3764996346 - Field 2148027673 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 4050813720">
+          <source>Legislation</source>
+          <target state="translated">Legislatíva</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension SEL General Ledger Setup - Field SEL Legislation - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 3764996346 - Field 1571734152 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 4050813720">
+          <source>Uncertainty Payer List Link</source>
+          <target state="translated">Link na zoznam nespoľahlivých plátcov</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension SEL General Ledger Setup - Field SEL Uncertain. Payer List Link - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 3764996346 - Field 758250968 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 4050813720">
+          <source>Uncertainty Payer List Folder</source>
+          <target state="translated">Pričinok zoznamu nespoľahlivých plátcov</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension SEL General Ledger Setup - Field SEL Uncert. Payer List Folder - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 3764996346 - Field 3844521646 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 4050813720">
+          <source>VAT Bus. Posting Group - Domestic Reverse Charge</source>
+          <target state="translated">DPH obch. účto skupina - domáca vratná</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension SEL General Ledger Setup - Field SEL Post.Gr. Dom. Rev.Charge - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 291403555 - Field 4148959950 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 3279488167">
+          <source>Domestic Reverse Charge VAT</source>
+          <target state="translated">Domáca vratná DPH</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension SEL Tariff Number SVK - Field SEL Domestic Rev. Charge VAT - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 291403555 - Field 1221898873 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 3279488167">
+          <source>Item Category</source>
+          <target state="translated">Kategória tovaru</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension SEL Tariff Number SVK - Field SEL Item Category - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 3677227884 - Field 2341319242 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1994964448">
+          <source>VAT Uncertainty Payer</source>
+          <target state="translated">Nespoľahlivý plátca DPH</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension SEL Customer SVK - Field SEL VAT Uncertainty Payer - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 3677227884 - Field 959574883 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1994964448">
+          <source>Last Uncertainty Check Date</source>
+          <target state="translated">Posledná kontrola nespoľahlivosti</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension SEL Customer SVK - Field SEL Last Uncertain. Check Date - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 3093426517 - Field 246169745 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1192395785">
+          <source>Original Posting Date</source>
+          <target state="translated">Pôvodný zúčtovací dátum</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension SEL Sales Header SVK - Field SEL Original Posting Date - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 3093426517 - Field 1829665720 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1192395785">
+          <source>Simplified Tax Document</source>
+          <target state="translated">Zjednodušený daňový doklad</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension SEL Sales Header SVK - Field SEL Simplified Tax Document - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 3093426517 - Field 692312367 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1192395785">
+          <source>Original Invoice No.</source>
+          <target state="translated">Pôvodné číslo faktúry</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension SEL Sales Header SVK - Field SEL Original Invoice No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 3093426517 - Field 4250075176 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1192395785">
+          <source>Debit Note</source>
+          <target state="translated">Ťarchopis</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension SEL Sales Header SVK - Field SEL Debit Note - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 4032816864 - Method 3420633483 - NamedType 1733289264" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 2574427010">
+          <source>For %1 %2 %3 is %4 set to %5. %6 was changed.</source>
+          <target state="translated">Pre %1 %2 %3 je %4 nastavená na %5. %6 bola zmenená.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension SEL Sales Line - Method CheckDomesticReverseChargeVAT - NamedType DomesticReverseChargeTxt</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 3838570826 - Field 246169745 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 2072992664">
+          <source>Original Posting Date</source>
+          <target state="translated">Pôvodný zúčtovací dátum</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension SEL Purchase Header - Field SEL Original Posting Date - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 3838570826 - Field 1829665720 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 2072992664">
+          <source>Simplified Tax Document</source>
+          <target state="translated">Zjednodušený daňový doklad</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension SEL Purchase Header - Field SEL Simplified Tax Document - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 3838570826 - Field 692312367 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 2072992664">
+          <source>Original Invoice No.</source>
+          <target state="translated">Pôvodné číslo faktúry</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension SEL Purchase Header - Field SEL Original Invoice No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 3838570826 - Field 4250075176 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 2072992664">
+          <source>Debit Note</source>
+          <target state="translated">Ťarchopis</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension SEL Purchase Header - Field SEL Debit Note - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 3838570826 - Field 45676871 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 2072992664">
+          <source>Credit Memo Type</source>
+          <target state="translated">Typ ťarchopisu</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension SEL Purchase Header - Field SEL Credit Memo Type - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 2750121819 - Field 1188589535 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 3469146285">
+          <source>Business Register</source>
+          <target state="translated">Obchodný register</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension SEL Company Information - Field SEL Business Register - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 3402729033 - Field 1829665720 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1806786327">
+          <source>Simplified Tax Document</source>
+          <target state="translated">Zjednodušený daňový doklad</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension SEL Gen. Journal Line - Field SEL Simplified Tax Document - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 3402729033 - Field 692312367 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1806786327">
+          <source>Original Invoice No.</source>
+          <target state="translated">Pôvodné číslo faktúry</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension SEL Gen. Journal Line - Field SEL Original Invoice No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 3402729033 - Field 4250075176 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1806786327">
+          <source>Debit Note</source>
+          <target state="translated">Ťarchopis</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension SEL Gen. Journal Line - Field SEL Debit Note - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 3402729033 - Field 45676871 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1806786327">
+          <source>Credit Memo Type</source>
+          <target state="translated">Typ ťarchopisu</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension SEL Gen. Journal Line - Field SEL Credit Memo Type - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 4169155577 - Field 2827014215 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 4206333399">
+          <source>Annual Balance</source>
+          <target state="translated">Ročný zostatok</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension SEL Acc. Schedule Name - Field SEL Annual Balance - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 494491656 - Field 1829665720 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 809936682">
+          <source>Simplified Tax Document</source>
+          <target state="translated">Zjednodušený daňový doklad</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension SEL Sales Invoice Header - Field SEL Simplified Tax Document - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 494491656 - Field 692312367 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 809936682">
+          <source>Original Invoice No.</source>
+          <target state="translated">Pôvodné číslo faktúry</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension SEL Sales Invoice Header - Field SEL Original Invoice No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 494491656 - Field 4250075176 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 809936682">
+          <source>Debit Note</source>
+          <target state="translated">Ťarchopis</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension SEL Sales Invoice Header - Field SEL Debit Note - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 2032302700 - Field 1829665720 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 552782286">
+          <source>Simplified Tax Document</source>
+          <target state="translated">Zjednodušený daňový doklad</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension SEL Sales Cr. Memo Header - Field SEL Simplified Tax Document - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 2032302700 - Field 692312367 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 552782286">
+          <source>Original Invoice No.</source>
+          <target state="translated">Pôvodné číslo faktúry</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension SEL Sales Cr. Memo Header - Field SEL Original Invoice No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 1502777220 - Field 1829665720 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1592379974">
+          <source>Simplified Tax Document</source>
+          <target state="translated">Zjednodušený daňový doklad</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension SEL Purch. Inv. Header - Field SEL Simplified Tax Document - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 1502777220 - Field 692312367 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1592379974">
+          <source>Original Invoice No.</source>
+          <target state="translated">Pôvodné číslo faktúry</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension SEL Purch. Inv. Header - Field SEL Original Invoice No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 1502777220 - Field 4250075176 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1592379974">
+          <source>Debit Note</source>
+          <target state="translated">Ťarchopis</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension SEL Purch. Inv. Header - Field SEL Debit Note - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 1480930967 - Field 1829665720 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 2271228953">
+          <source>Simplified Tax Document</source>
+          <target state="translated">Zjednodušený daňový doklad</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension SEL Purch. Cr. Memo Hdr. - Field SEL Simplified Tax Document - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 1480930967 - Field 692312367 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 2271228953">
+          <source>Original Invoice No.</source>
+          <target state="translated">Pôvodné číslo faktúry</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension SEL Purch. Cr. Memo Hdr. - Field SEL Original Invoice No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 1480930967 - Field 4250075176 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 2271228953">
+          <source>Debit Note</source>
+          <target state="translated">Ťarchopis</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension SEL Purch. Cr. Memo Hdr. - Field SEL Debit Note - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 1480930967 - Field 45676871 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 2271228953">
+          <source>Credit Memo Type</source>
+          <target state="translated">Typ ťarchopisu</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension SEL Purch. Cr. Memo Hdr. - Field SEL Credit Memo Type - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 4259805223 - Field 2565459824 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1642199961">
+          <source>Sales Debit Note</source>
+          <target state="translated">Predajný ťarchopis</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension SEL Source Code Setup - Field SEL Sales Debit Note - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 4259805223 - Field 2745055524 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1642199961">
+          <source>Sales Internal Credit Memo</source>
+          <target state="translated">Predajný interný ťarchopis</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension SEL Source Code Setup - Field SEL Sales Internal Cr. Memo - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 4259805223 - Field 4253418465 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1642199961">
+          <source>Purchase Debit Note</source>
+          <target state="translated">Nákupný ťarchopis</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension SEL Source Code Setup - Field SEL Purchase Debit Note - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 4259805223 - Field 2827574982 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1642199961">
+          <source>Purchase Internal Debit Note</source>
+          <target state="translated">Nákupný interný ťarchopis</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension SEL Source Code Setup - Field SEL Purch. Internal Cr. Memo - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 1022554631 - Field 1829665720 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 2941967353">
+          <source>Simplified Tax Document</source>
+          <target state="translated">Zjednodušený daňový doklad</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension SEL VAT Entry - Field SEL Simplified Tax Document - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 1022554631 - Field 692312367 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 2941967353">
+          <source>Original Invoice No.</source>
+          <target state="translated">Pôvodné číslo faktúry</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension SEL VAT Entry - Field SEL Original Invoice No. - Property Caption</note>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>
